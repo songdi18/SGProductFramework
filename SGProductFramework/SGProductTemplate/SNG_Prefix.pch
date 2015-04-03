@@ -1,0 +1,17 @@
+//
+//  SNG_Prefix.pch
+//  SGProductTemplate
+//
+//  Created by 宋迪 on 15/3/13.
+//  Copyright (c) 2015年 SNG. All rights reserved.
+//
+
+#ifdef __OBJC__
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "SGViewController.h"
+#import "SGRequest.h"
+#import <CoreFoundation/CoreFoundation.h>
+
+#endif
